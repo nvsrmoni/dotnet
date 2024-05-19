@@ -1,4 +1,4 @@
-pipeline {
+mpipeline {
   agent any
   triggers {
     pollSCM '* * * * *'
